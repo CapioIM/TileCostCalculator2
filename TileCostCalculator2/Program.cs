@@ -98,7 +98,6 @@ namespace TileCostCalculator2
                 Console.WriteLine("Entered data is Invalid");
             }
             Console.WriteLine("Bye");
-
         }
     }
 }
